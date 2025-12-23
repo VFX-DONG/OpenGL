@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\opengl_test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A0FF-5FC3-4FD8-9414-4E430FFA51FD}|opengl_test1\\opengl_test1.vcxproj|D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\lib\\lib\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3320A0FF-5FC3-4FD8-9414-4E430FFA51FD}|opengl_test1\\opengl_test1.vcxproj|D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\opengl_test1\\opengl_test1\\trangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3320A0FF-5FC3-4FD8-9414-4E430FFA51FD}|opengl_test1\\opengl_test1.vcxproj|solutionrelative:opengl_test1\\trangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "glad.c",
+              "DocumentMoniker": "D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\lib\\lib\\glad.c",
+              "RelativeDocumentMoniker": "..\\lib\\lib\\glad.c",
+              "ToolTip": "D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\lib\\lib\\glad.c",
+              "RelativeToolTip": "..\\lib\\lib\\glad.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-23T19:45:08.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trangle.cpp",
+              "DocumentMoniker": "D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\opengl_test1\\opengl_test1\\trangle.cpp",
+              "RelativeDocumentMoniker": "opengl_test1\\trangle.cpp",
+              "ToolTip": "D:\\AA_MyProjectFiles\\CPP\\02_OpenGL\\opengl_test1\\opengl_test1\\trangle.cpp",
+              "RelativeToolTip": "opengl_test1\\trangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T19:08:40.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
